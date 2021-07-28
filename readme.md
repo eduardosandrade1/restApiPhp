@@ -4,7 +4,7 @@
 
 
 
-. git clone https://github.com/eduardosandrade1/restApiPhp.git
+0.1 git clone https://github.com/eduardosandrade1/restApiPhp.git
 
 
 
