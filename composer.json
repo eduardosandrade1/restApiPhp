@@ -1,0 +1,13 @@
+{
+    "name": "eduardo.sandrade1/admin",
+    "authors": [
+        {
+            "name": "Eduardo Andrade",
+            "email": "tvduardo@gmail.com"
+        }
+    ],
+    "require": {
+		"php": "^7.1",
+		"chillerlan/php-qrcode": "dev-main"
+    }
+}
